@@ -1,0 +1,10 @@
+src
+documentation
+test
+node_modules
+.eslintignore
+.eslintrc
+.gitignore
+.editorconfig
+.DS_Store
+*.sublime-project
